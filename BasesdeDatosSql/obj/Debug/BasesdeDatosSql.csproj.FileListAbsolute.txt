@@ -1,0 +1,11 @@
+C:\Users\carrascoja\source\repos\BasesdeDatosSql\BasesdeDatosSql\bin\Debug\BasesdeDatosSql.exe.config
+C:\Users\carrascoja\source\repos\BasesdeDatosSql\BasesdeDatosSql\bin\Debug\BasesdeDatosSql.exe
+C:\Users\carrascoja\source\repos\BasesdeDatosSql\BasesdeDatosSql\bin\Debug\BasesdeDatosSql.pdb
+C:\Users\carrascoja\source\repos\BasesdeDatosSql\BasesdeDatosSql\obj\Debug\BasesdeDatosSql.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\BasesdeDatosSql\BasesdeDatosSql\obj\Debug\BasesdeDatosSql.Vista_inicial.resources
+C:\Users\carrascoja\source\repos\BasesdeDatosSql\BasesdeDatosSql\obj\Debug\BasesdeDatosSql.Properties.Resources.resources
+C:\Users\carrascoja\source\repos\BasesdeDatosSql\BasesdeDatosSql\obj\Debug\BasesdeDatosSql.csproj.GenerateResource.cache
+C:\Users\carrascoja\source\repos\BasesdeDatosSql\BasesdeDatosSql\obj\Debug\BasesdeDatosSql.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\BasesdeDatosSql\BasesdeDatosSql\obj\Debug\BasesdeDatosSql.exe
+C:\Users\carrascoja\source\repos\BasesdeDatosSql\BasesdeDatosSql\obj\Debug\BasesdeDatosSql.pdb
+C:\Users\carrascoja\source\repos\BasesdeDatosSql\BasesdeDatosSql\obj\Debug\BasesdeDatosSql.BusquedaMaster.resources
